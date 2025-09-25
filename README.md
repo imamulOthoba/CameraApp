@@ -3,6 +3,7 @@
 A modern Android camera application built with Jetpack Compose and CameraX, featuring real-time face
 detection, camera switching (front/back), a blink effect on photo capture, and saving images to the
 Media Store with a wide range of  aspect ratio.
+This is a test project.
 
 ## Features
 
