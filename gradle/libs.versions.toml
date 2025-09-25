@@ -45,7 +45,7 @@ androidx-camera-video = { module = "androidx.camera:camera-video", version.ref =
 androidx-camera-mlkit = { module = "androidx.camera:camera-mlkit-vision", version.ref = "cameraX" }
 google-mlkit = { module = "com.google.mlkit:face-detection", version.ref = "mlKitFace" }
 
-#
+# cameraX compose
 androidx-camera-compose = { module = "androidx.camera:camera-compose", version.ref = "cameraX" }
 #androidx-camera-viewfiender-compose = { module = "androidx.camera:camera-viewfinder-compose", version = "1.0.0-alpha02" }
 accompanist-permissions = { module = "com.google.accompanist:accompanist-permissions", version.ref = "accompanist" }
