@@ -96,3 +96,4 @@ This is a test project.
   detection, and UI logic.
 - **ImageSaver.kt**: Handles photo capture and saving to the Media Store and Local File Under -**Pictures/CameraApp**.
 - **theme**: Defines the app’s Compose theme.
+- test for yolo badge.
